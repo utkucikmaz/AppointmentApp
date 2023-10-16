@@ -15,6 +15,8 @@
     "express": "^4.18.2",
     "express-jwt": "^8.4.1",
     "fs": "^0.0.1-security",
+    "google-auth-library": "^9.1.0",
+    "googleapis": "^127.0.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.5.2",
     "morgan": "^1.10.0",
